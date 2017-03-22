@@ -35,5 +35,5 @@ Training with default settings: `python3 srez_main.py --run train`. The script w
 After the network has trained you can also produce an animation showing the evolution of the output by running `python3 srez_main.py --run demo`.
 
 # About the author
-
+Yuming Qiao
 [LinkedIn profile of David Garcia](https://ca.linkedin.com/in/david-garcia-70913311).
